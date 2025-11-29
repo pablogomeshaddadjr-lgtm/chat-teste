@@ -1,0 +1,7 @@
+{
+  "name": "PromptClub Chat",
+  "description": "A premium, mobile-first chat application with roles, XP system, admin panel, and AI-powered bot integration.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
